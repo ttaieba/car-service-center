@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Replace Tyer",
+        "id": 1,
+        "price": 240,
+        "time": 2,
+        "img": "https://i.ibb.co/W3wxXNM/service-1.jpg",
+        "des": "Car Mechanic Simulator 2018 is a simulation video game developed by Polish studio Red Dot Games depicting the work of an automotive mechanic. It was"
+    },
+    {
+        "name": "Replace Body",
+        "id": 2,
+        "price": 290,
+        "time": 2,
+        "img": "https://i.ibb.co/MV9xLmC/service-2.jpg",
+        "des": "Car Mechanic Simulator 2018 is a simulation video game developed by Polish studio Red Dot Games depicting the work of an automotive mechanic. It was"
+    },
+    {
+        "name": "Paint",
+        "id": 3,
+        "price": 250,
+        "time": 2,
+        "img": "https://i.ibb.co/LgL24mQ/service-5.jpg",
+        "des": "Car Mechanic Simulator 2018 is a simulation video game developed by Polish studio Red Dot Games depicting the work of an automotive mechanic. It was"
+    },
+    {
+        "name": "Replace Tyer",
+        "id": 4,
+        "price": 200,
+        "time": 2,
+        "img": "https://i.ibb.co/rHN5c8j/service-3.jpg",
+        "des": "Car Mechanic Simulator 2018 is a simulation video game developed by Polish studio Red Dot Games depicting the work of an automotive mechanic. It was"
+    },
+    {
+        "name": "Replace Wheel",
+        "id": 5,
+        "price": 100,
+        "time": 2,
+        "img": "https://i.ibb.co/WxqDmhY/service-4.jpg",
+        "des": "Car Mechanic Simulator 2018 is a simulation video game developed by Polish studio Red Dot Games depicting the work of an automotive mechanic. It was"
+    }
+]

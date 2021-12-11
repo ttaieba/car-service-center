@@ -1,0 +1,33 @@
+.services-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+
+img{
+    width: 300px;
+}
+.service{
+    background-color: rgb(196, 167, 223);
+    margin: 10px;
+    padding: 25px;
+    border-radius: 30px;
+}
+
+.home{
+    height: 100vh;
+}
+
+@media only screen and (max-width:688px) {
+    .services-container{
+            display: grid;
+            grid-template-columns: 1fr;
+    }
+    
+}
+@media only screen and (min-width:689px) and (max-width:992px) {
+    .services-container{
+            display: grid;
+            grid-template-columns:repeat(2,1fr);
+    }
+    
+}
